@@ -1,0 +1,3 @@
+interface:
+  display_name: "元认知式 AI 协作"
+  short_description: "先校准自己的目标和判断，再让 AI 展开、红队、验证和迭代"
